@@ -1,3 +1,3 @@
-module example.com/myOwnTest
+module awesomeProject
 
-go 1.26.4
+go 1.26
